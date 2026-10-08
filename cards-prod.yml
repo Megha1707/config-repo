@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to cards prod microservice"
+  contactDetails:
+    name: "Megha"
+    email: "megha@example.com"
+  onCallSupport:
+    - 8778737931
+    - 7415366790
