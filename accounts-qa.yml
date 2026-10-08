@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to accounts qal microservice"
+  message: "Welcome to accounts qall microservice"
   contactDetails:
     name: "Megha-qa"
     email: "megha@example.com"
